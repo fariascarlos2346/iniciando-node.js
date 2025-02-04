@@ -8,6 +8,8 @@
     <li>Instalando o Express</li>
     <li>Subindo o primeiro Servidor</li>
     <li>Conhecimentos sobre Protocolo HTTP</li>
-    <li>Criando Rotas</li>
   </ol>
 </h2>
+<h2>Criando Rotas</h2>
+<br>
+<h3>Get, Post, Delete e Put.</h3>
