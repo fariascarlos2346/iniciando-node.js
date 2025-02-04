@@ -14,3 +14,5 @@
 <h3>Get, Post, Delete e Put.</h3>
 <br>
 <h2>Salvando Informações com Query Params, Route Params e Body Params</h2>
+<br>
+<h3>Criei um Array para simular um banco de Dados, duas Rotas que estão funcionando, Get e Post, com status 200 e 201 retornando Json. </h3>
