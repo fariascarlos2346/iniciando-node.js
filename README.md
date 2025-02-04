@@ -7,5 +7,7 @@
     <li>Criando projeto com Node</li>
     <li>Instalando o Express</li>
     <li>Subindo o primeiro Servidor</li>
+    <li>Conhecimentos sobre Protocolo HTTP</li>
+    <li>Criando Rotas</li>
   </ol>
 </h2>
