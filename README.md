@@ -12,3 +12,5 @@
 </h2>
 <h2>Criando Rotas</h2>
 <h3>Get, Post, Delete e Put.</h3>
+<br>
+<h2>Salvando Informações com Query Params, Route Params e Body Params</h2>
