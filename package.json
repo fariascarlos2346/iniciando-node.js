@@ -2,7 +2,7 @@
   "name": "iniciando-node",
   "version": "1.0.0",
   "description": "",
-  "type":"module",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "^6.3.1",
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "prisma": "^6.3.1"
   }
 }
