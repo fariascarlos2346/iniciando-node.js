@@ -20,5 +20,5 @@
 <h2>Criando Banco De Dados</h2>
 <p>Banco de Dados criado com MongoDb, <a hre="https://www.prisma.io/docs/getting-started">Prisma</a> como Corretor intermediando a Conexão, estalação de suas Dependecias, Bibliote para auxiliar na criação dos campos e muito mais.</p>
 <br>
-<h2>Aprendizado em ORM, CRIANDO BANCO DE DADOS, Requicicões Aciclonas e CRUD. </h2>
+<h2>Aprendizado em ORM, CRIANDO BANCO DE DADOS, Requisicões Assincronas e CRUD. </h2>
 
